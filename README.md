@@ -14,3 +14,9 @@ Um simples conversor de binário para decimal.
 ### :bulb: Tela da aplicação
 
 ![image](https://github.com/JonanthaW/Bin2Dec/blob/main/assets/example1.jpg)
+
+### :computer: Baixando o conteúdo:
+
+```bash
+$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+```
